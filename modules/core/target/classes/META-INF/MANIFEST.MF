@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ICode Module Core
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: libing
+Implementation-Vendor-Id: com.icode
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://icode.com
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: ICode
+

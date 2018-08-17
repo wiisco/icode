@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/views/modules/sys=UTF-8
+encoding//src/main/resources/views/modules/sys/officeList.html=UTF-8
+encoding//src/main/resources/views/modules/sys/sysIndex.html=UTF-8
+encoding//src/main/resources/views/modules/sys/user=UTF-8
+encoding//src/main/resources/views/modules/sys/user/empUserForm.html=UTF-8
+encoding//src/main/resources/views/modules/sys/user/empUserIndex.html=UTF-8
+encoding//src/main/resources/views/modules/sys/user/empUserList.html=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
